@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/daiki-sato/antipattern-portal-site-api.git
+[submodule "front"]
+	path = front
+	url = git@github.com:daiki-sato/antipattern-portal-site-front.git
